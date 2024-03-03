@@ -1,6 +1,44 @@
+/* Pages */
+@use './style/Informations.scss';
+@use './style/Skills.scss';
+
+/* Components */
 @use './style/_BongoCat.scss';
 @use './style/Navbar.scss';
 
-body {
+
+*,
+::before,
+::after {
+    box-sizing: border-box;
     margin: 0;
+    padding: 0;
+    list-style-type: none;
+    // box-shadow: 0 0 0 3px red inset;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    background-color: #17cf97;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #02af7b;
+}
+
+.title {
+    font-size: 24px;
+    margin: 15px;
+    text-align: center;
 }

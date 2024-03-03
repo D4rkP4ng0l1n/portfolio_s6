@@ -7,7 +7,9 @@ const Navbar = () => {
         <>
             <nav>
                 <div>
-                    <BongoCat />
+                    <a href='https://www.youtube.com/watch?v=ac5bw1u_fpc'>
+                        <BongoCat />
+                    </a>
                 </div>
                 <div>
                     <ul id='navbar'>
@@ -24,6 +26,11 @@ const Navbar = () => {
                         <li>
                             <NavLink to="/competences">
                                 Mes compétences
+                            </NavLink>
+                        </li>
+                        <li>
+                            <NavLink to="/projets">
+                                Mes projets
                             </NavLink>
                         </li>
                     </ul>

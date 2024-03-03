@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://D4rkP4ng0l1n.github.io/portfolio_s6",
   "dependencies": {
+    "@react-pdf/renderer": "^3.3.8",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",

@@ -1,0 +1,50 @@
+.skillsContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+
+.realiser,
+.optimiser,
+.administrer,
+.gerer,
+.conduire,
+.collaborer {
+    flex: 1 1 45%;
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.realiser h1,
+.optimiser h1,
+.administrer h1,
+.gerer h1,
+.conduire h1,
+.collaborer h1 {
+    text-align: center;
+}
+
+.realiser ul,
+.optimiser ul,
+.administrer ul,
+.gerer ul,
+.conduire ul,
+.collaborer ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+@media (max-width: 768px) {
+    .realiser,
+    .optimiser,
+    .administrer,
+    .gerer,
+    .conduire,
+    .collaborer {
+        flex: 1 1 90%;
+        width: 90%;
+    }
+}
