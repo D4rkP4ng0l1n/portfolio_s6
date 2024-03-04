@@ -58,7 +58,9 @@ const Skills = () => {
                                 Sécuriser les applications et les services
                             </li>
                         </ul>
-                        <button> Projets </button>
+                        <NavLink to='/projets/administrer'>
+                            <button> Projets </button>
+                        </NavLink>
                     </div> 
                     <div className='gerer'>
                         <h1> Gérer </h1>
@@ -73,7 +75,9 @@ const Skills = () => {
                                 Exploiter des données pour la prise de décisions
                             </li>
                         </ul>
-                        <button> Projets </button>
+                        <NavLink to='/projets/gerer'>
+                            <button> Projets </button>
+                        </NavLink>
                     </div>
                     <div className='conduire'>
                         <h1> Conduire </h1>
@@ -88,7 +92,9 @@ const Skills = () => {
                                 Faire évoluer un système d’information
                             </li>
                         </ul>
-                        <button> Projets </button>
+                        <NavLink to='/projets/conduire'>
+                            <button> Projets </button>
+                        </NavLink>
                     </div>
                     <div className='collaborer'>
                         <h1> Collaborer </h1>
@@ -103,7 +109,9 @@ const Skills = () => {
                                 Élaborer, gérer et transmettre de l’information
                             </li>
                         </ul>
-                        <button> Projets </button>
+                        <NavLink to='/projets/collaborer'>
+                            <button> Projets </button>
+                        </NavLink>
                     </div>
                 </div>
             </body>
