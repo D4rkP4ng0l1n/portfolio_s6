@@ -7,9 +7,7 @@ const Navbar = () => {
         <>
             <nav>
                 <div>
-                    <a href='https://www.youtube.com/watch?v=ac5bw1u_fpc'>
-                        <BongoCat />
-                    </a>
+                    <BongoCat />
                 </div>
                 <div>
                     <ul id='navbar'>
