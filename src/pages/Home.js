@@ -10,10 +10,9 @@ const Home = () => {
                 <Navbar />
             </header>
             <body>
-                <h1 className='title'> Accueil </h1>
+                <h1 className='title'> Portfolio RIEUNEAU Clément </h1>
                     <div className="homeContent">
-                        <p> Portfolio BUT Informatique 2021 - 2024 </p>
-                        <p> RIEUNEAU Clément </p>
+                        <p> Etudiant en 3e année de développement informatique à l'IUT Paul Sabatier </p>
                     </div>
 
                 <div className="homeBGImage">

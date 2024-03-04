@@ -2,6 +2,7 @@ import { Route, Routes } from 'react-router-dom';
 import Administrer from './pages/Administrer';
 import Collaborer from './pages/Collaborer';
 import Conduire from './pages/Conduire';
+import Contact from './pages/Contact';
 import Gerer from './pages/Gerer';
 import Home from './pages/Home';
 import Informations from './pages/Informations';
@@ -16,6 +17,7 @@ function App() {
         <Route path='/' element={<Home />} />
         <Route path='/informations' element={<Informations />} />
         <Route path='/competences' element={<Skills />} />
+        <Route path='/contact' element={<Contact />} />
         <Route path='/projets' element={<Projects />} />
         <Route path='/projets/realiser' element={<Realiser />} />
         <Route path='/projets/optimiser' element={<Optimiser />} />

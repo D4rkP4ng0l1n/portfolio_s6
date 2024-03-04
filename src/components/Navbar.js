@@ -31,6 +31,11 @@ const Navbar = () => {
                                 Mes projets
                             </NavLink>
                         </li>
+                        <li>
+                            <NavLink to="/contact">
+                                Me contacter
+                            </NavLink>
+                        </li>
                     </ul>
                 </div>
             </nav>
