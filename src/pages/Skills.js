@@ -1,4 +1,5 @@
 import React from 'react';
+import { NavLink } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 
 const Skills = () => {
@@ -23,7 +24,9 @@ const Skills = () => {
                                 Maintenir en conditions opérationnelles une application informatique
                             </li>
                         </ul>
-                        <button> Projets </button>
+                        <NavLink to='/projets/realiser'>
+                            <button> Projets </button>
+                        </NavLink>
                     </div>
                     <div className='optimiser'>
                         <h1> Optimiser </h1>
