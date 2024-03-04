@@ -2,11 +2,12 @@
 @use './style/Home.scss';
 @use './style/Informations.scss';
 @use './style/Skills.scss';
+@use './style/ProjectsPage.scss';
 
 /* Components */
 @use './style/_BongoCat.scss';
 @use './style/Navbar.scss';
-
+@use './style/Projects.scss';
 
 *,
 ::before,

@@ -12,13 +12,13 @@ const Informations = () => {
             <h1 className='title'> Informations </h1>
             <div className='informationsContainer'>
                 <div className="links">
-                    <a href='https://www.linkedin.com/in/clément-rieuneau-b13a3a260/'>
+                    <a href='https://www.linkedin.com/in/clément-rieuneau-b13a3a260/' target='_blank'>
                         <button class="link">
                             <i class="fab fa-linkedin"></i>
                             LinkedIn
                         </button>
                     </a>
-                    <a href='https://github.com/D4rkP4ng0l1n'>
+                    <a href='https://github.com/D4rkP4ng0l1n' target='_blank'>
                         <button class="link">
                             <i class="fab fa-github"></i>
                             GitHub

@@ -1,0 +1,53 @@
+.projectContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px;
+    width: 300px;
+}
+
+.projectTitle {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.imageProjectContainer img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.textProjectContainer {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.langagesProject {
+    font-weight: bold;
+    color: #007bff; /* couleur bleue */
+    margin-bottom: 10px;
+}
+
+.whenProject {
+    font-style: italic;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.descProject {
+    margin-bottom: 20px;
+}
+
+.gitProjectLink {
+    display: block;
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.gitProjectLink:hover {
+    text-decoration: underline;
+}
