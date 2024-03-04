@@ -41,7 +41,9 @@ const Skills = () => {
                                 Mettre en place des applications informatiques adaptées et efficaces
                             </li>
                         </ul>
-                        <button> Projets </button>
+                        <NavLink to='/projets/optimiser'>
+                            <button> Projets </button>
+                        </NavLink>
                     </div>
                     <div className='administrer'>
                         <h1> Administrer </h1>
