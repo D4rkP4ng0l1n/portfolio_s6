@@ -1,6 +1,8 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import Navbar from '../components/Navbar';
+import R301_ProjetQuidditch from '../components/R301_ProjetQuidditch';
+import R4A10_MessagerieDuSUD from '../components/R4A10_MessagerieDuSUD';
 
 const Gerer = () => {
     return (
@@ -14,7 +16,8 @@ const Gerer = () => {
                     Revenir à la page des compétences
                 </NavLink>
                 <div className='projectsDetailContainer'>
-
+                    <R4A10_MessagerieDuSUD />
+                    <R301_ProjetQuidditch />
                 </div>
             </body>
         </>
