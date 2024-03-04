@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio_s6/static/css/main.ccfeb522.css",
-    "main.js": "/portfolio_s6/static/js/main.fd62908b.js",
+    "main.css": "/portfolio_s6/static/css/main.3f5cf4eb.css",
+    "main.js": "/portfolio_s6/static/js/main.86cc147f.js",
     "reactPlayerYouTube.js": "/portfolio_s6/static/js/reactPlayerYouTube.e66becd5.chunk.js",
     "reactPlayerSoundCloud.js": "/portfolio_s6/static/js/reactPlayerSoundCloud.2a048b39.chunk.js",
     "reactPlayerVimeo.js": "/portfolio_s6/static/js/reactPlayerVimeo.07789c18.chunk.js",
@@ -15,11 +15,19 @@
     "reactPlayerKaltura.js": "/portfolio_s6/static/js/reactPlayerKaltura.c342902e.chunk.js",
     "reactPlayerFilePlayer.js": "/portfolio_s6/static/js/reactPlayerFilePlayer.ed983c04.chunk.js",
     "reactPlayerPreview.js": "/portfolio_s6/static/js/reactPlayerPreview.be2ee471.chunk.js",
+    "static/media/Quidditch.png": "/portfolio_s6/static/media/Quidditch.a53415ea48e946c82e07.png",
     "static/media/PhotoMoi.png": "/portfolio_s6/static/media/PhotoMoi.8f384f17bfe3840820fc.png",
+    "static/media/PageAccueilEcoCab.png": "/portfolio_s6/static/media/PageAccueilEcoCab.0a4ee53553aa277972a0.png",
+    "static/media/EasySport.png": "/portfolio_s6/static/media/EasySport.7ba0557c326ffcee414c.png",
+    "static/media/MessagerieSUD.png": "/portfolio_s6/static/media/MessagerieSUD.6a3704f56f498af96bfc.png",
     "static/media/CV.pdf": "/portfolio_s6/static/media/CV.d67252722c587bbb53ff.pdf",
+    "static/media/WekinGames.png": "/portfolio_s6/static/media/WekinGames.34338e5afb86486165f8.png",
+    "static/media/API.png": "/portfolio_s6/static/media/API.3116a53ee213e70de41b.png",
+    "static/media/Labyrinthe.jpg": "/portfolio_s6/static/media/Labyrinthe.038ca7a9c149506e7f91.jpg",
+    "static/media/PbVoyageur.png": "/portfolio_s6/static/media/PbVoyageur.fbb72756bbc93456ff93.png",
     "index.html": "/portfolio_s6/index.html",
-    "main.ccfeb522.css.map": "/portfolio_s6/static/css/main.ccfeb522.css.map",
-    "main.fd62908b.js.map": "/portfolio_s6/static/js/main.fd62908b.js.map",
+    "main.3f5cf4eb.css.map": "/portfolio_s6/static/css/main.3f5cf4eb.css.map",
+    "main.86cc147f.js.map": "/portfolio_s6/static/js/main.86cc147f.js.map",
     "reactPlayerYouTube.e66becd5.chunk.js.map": "/portfolio_s6/static/js/reactPlayerYouTube.e66becd5.chunk.js.map",
     "reactPlayerSoundCloud.2a048b39.chunk.js.map": "/portfolio_s6/static/js/reactPlayerSoundCloud.2a048b39.chunk.js.map",
     "reactPlayerVimeo.07789c18.chunk.js.map": "/portfolio_s6/static/js/reactPlayerVimeo.07789c18.chunk.js.map",
@@ -35,7 +43,7 @@
     "reactPlayerPreview.be2ee471.chunk.js.map": "/portfolio_s6/static/js/reactPlayerPreview.be2ee471.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccfeb522.css",
-    "static/js/main.fd62908b.js"
+    "static/css/main.3f5cf4eb.css",
+    "static/js/main.86cc147f.js"
   ]
 }
